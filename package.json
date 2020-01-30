@@ -1,0 +1,24 @@
+{
+  "name": "crypto-organization",
+  "version": "0.0.1",
+  "description": "Collection of smart contracts with a client for organization governance",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libertarian-devs/crypto-organization.git"
+  },
+  "author": "libertarian-devs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/libertarian-devs/crypto-organization/issues"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.4.0"
+  }
+}
